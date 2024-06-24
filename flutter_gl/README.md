@@ -1,4 +1,6 @@
-# Flutter GL
+Note: this is a fork of https://pub.dev/packages/flutter_gl
+
+# Flutter GL Plus
 
 cross-platform call OpenGL API by Dart through dart:ffi. Provides OpenGL with Texture Widget on Flutter. 
 
