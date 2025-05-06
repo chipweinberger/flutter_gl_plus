@@ -16,7 +16,7 @@ A new flutter plugin project.
   s.source_files     = 'Classes/**/*'
   s.dependency 'FlutterMacOS'
   s.dependency "three3d_egl_osx", '~> 0.1.1'
-  s.platform = :osx, '14.0'
+  s.platform = :osx, '12.4'
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
   s.swift_version = '5.0'
 end
